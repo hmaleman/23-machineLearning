@@ -1,2 +1,2 @@
-# 24-deepLearning
-Deep Learning notes and exercices
+# Machine Learning and Deep Learning
+Machine Learning and Deep Learning notes, code, exercices and snippets
