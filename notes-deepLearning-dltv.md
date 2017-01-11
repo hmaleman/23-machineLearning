@@ -90,3 +90,4 @@ This entire process can be completed in a reasonable amount of time using GPUs, 
 
 ## 8. Convolutional Neural Networks
 For math details, check Andrej Karpathy's CS231n course.
+CNN is the standard solution for image recognition problems. 
